@@ -1,7 +1,7 @@
 
 # Maná Delivery
 
-Aplicação de delivery com foco de acessibilidade para o usuario e o estabelecimento
+Aplicação de delivery com foco de acessibilidade para o usuario na hora que a fome apertar
 
 
 ## Autores
