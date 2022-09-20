@@ -8,6 +8,7 @@ Aplicação de delivery com foco de acessibilidade para o usuario na hora que a 
 
 
  [@pedrosnow](https://github.com/pedrosnow)
+ [@JeffDDN](https://github.com/JeffDDN)
 
 ## Stack utilizada
 
